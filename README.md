@@ -1,1 +1,1 @@
-# FastMemoryGame_C
+This application is a console memory game.
